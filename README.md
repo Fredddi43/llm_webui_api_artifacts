@@ -14,4 +14,4 @@ Results File: LLM Judge 1 is ChatGPT-4o, LLM Judge 2 is Claude 4.5 Haiku
 
 If you use these artifacts in your research, please cite our paper:
 
-Lipphardt, F., Ali, M., Feldmann, A., & Gosain, D. Dual Standards: Examining Content Moderation Disparities Between API and WebUI Interfaces in Large Language Models. Free and Open Communication on the Internet 2026 [REST CITATION AFTER PUBLICATION]
+Lipphardt, F., Ali, M., Feldmann, A. & Gosain, D. Dual Standards: Examining Content Moderation Disparities Between API and WebUI Interfaces in Large Language Models. Free and Open Communication on the Internet 2026 [REST CITATION AFTER PUBLICATION]
